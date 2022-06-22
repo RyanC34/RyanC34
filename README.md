@@ -9,7 +9,7 @@ Software Engineer, Student and Ethical Hacker
 * ✉️  You can contact me at [ryan.chan034@gmail.com](mailto:ryan.chan034@gmail.com)
 * 🚀  I'm currently working on [Cradle](http://playcradle.com/)
 * 🧠  I'm learning Active Directory pentesting and studying for my OSCP
-* ⚡  Haven't been updating my GitHub, focusing more on Cybersecurity. More active on other platforms
+* ⚡  Haven't been updating my GitHub; focusing more on Cybersecurity. More active on other platforms
 
 <a href="https://www.twitter.com/Not_Ryan_Chan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Not_Ryan_Chan?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
