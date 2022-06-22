@@ -1,15 +1,15 @@
 Hi 👋 My name is Ryan(He/Him)
 =====================
 
-Software Engineer and Ethical Hacker
+Software Engineer, Student and Ethical Hacker
 --------------------------------
 
 * 🌍  I'm based in Toronto
 * 🖥️  See my portfolio at [TryHackMe](http://tryhackme.com/p/Marimoo)
 * ✉️  You can contact me at [ryan.chan034@gmail.com](mailto:ryan.chan034@gmail.com)
 * 🚀  I'm currently working on [Cradle](http://playcradle.com/)
-* 🧠  I'm learning Active Directory Pentesting
-* ⚡  Studying for my OSCP
+* 🧠  I'm learning Active Directory Pentesting and studying for my OSCP
+* ⚡  
 
 <a href="https://www.twitter.com/Not_Ryan_Chan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Not_Ryan_Chan?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
