@@ -1,7 +1,7 @@
 Hi 👋 My name is Ryan(He/Him)
 =====================
 
-Web Developer and Ethical Hacker
+Software Engineer and Ethical Hacker
 --------------------------------
 
 * 🌍  I'm based in Toronto
